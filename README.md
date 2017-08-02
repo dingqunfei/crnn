@@ -1,3 +1,5 @@
+**This project is NOT in working condition**
+
 # CRNN
 
 A TensorFlow implementation of https://github.com/bgshih/crnn
